@@ -1,5 +1,9 @@
 # FINAL Document Collector
 
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-active-success)
+
 A Python tool that recursively scans a directory structure for **Microsoft Word documents (`.docx`) whose filename ends with `_FINAL`** and copies them into a centralised folder.
 
 The tool is designed for environments where finalised reports or documents are spread across large directory trees and need to be collected quickly and safely.
